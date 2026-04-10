@@ -5,6 +5,10 @@
 
 ---
 
+# Design of the Database
+<img width="1083" height="542" alt="image" src="https://github.com/user-attachments/assets/554eecbb-3b46-424e-b7a8-207c991ad3b4" />
+
+
 ## 📌 Project Overview
 
 This project is the **Development Phase** implementation of an Airbnb-style Database Management System. The system was designed and implemented in **MySQL Workbench** based on the Entity-Relationship (ER) model prepared in Phase 1.
