@@ -279,7 +279,7 @@ This development phase strengthened practical understanding of:
 | **Name** | Janith Sameera Kandambige  |
 | **Matriculation** |  10254336 |
 | **Project** | Airbnb Database Management System |
-| **Phase** | Development Phase / Reflection Phase |
+| **Phase** | Final Phase |
 | **Institution** | IU International University of Applied Sciences |
 | **Tool** | MySQL Workbench |
 
